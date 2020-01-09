@@ -11,5 +11,5 @@ class Tree {
 
 class Deciduous {
   constructor(species, name) { 
-    
+    super(species)
 } 
