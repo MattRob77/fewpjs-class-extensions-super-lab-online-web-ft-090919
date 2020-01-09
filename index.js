@@ -15,6 +15,6 @@ class Deciduous {
     this.name = name 
   } 
   static definition() {
-    
+    return ${}
   }
 } 
