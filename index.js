@@ -14,4 +14,5 @@ class Deciduous {
     super(species)
     this.name = name 
   } 
+  
 } 
