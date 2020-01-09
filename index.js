@@ -9,4 +9,7 @@ class Tree {
   }
 }
 
-class 
+class Deciduous {
+  constructor(species, name) { 
+    
+} 
